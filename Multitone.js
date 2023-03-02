@@ -30,3 +30,4 @@ class Multiton {
       }
     }
   }
+  module.exports = Multiton
